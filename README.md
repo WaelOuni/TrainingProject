@@ -1,2 +1,2 @@
 # TrainingProject
-Learn GIT
+Learning GIT
